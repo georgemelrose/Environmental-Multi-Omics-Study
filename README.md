@@ -3,3 +3,5 @@ An assignment from my Birmingham Bioinformatics MSc. The task was to perform mul
 R code for different ML and data mining techniques are in seperate named files. A full explanation of the work is provided in the associated powerpoint. 
 
 K-mean clustering is used for the module detection present in the WGCNA script. 
+
+Data associated hasn't been uploaded as such due to it being experimental data from groups at the University of Birmingham. 
